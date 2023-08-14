@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS Thomas_ChessBlog;
-CREATE DATABASE Thomas_ChessBlog;
+DROP DATABASE IF EXISTS universalBlog;
+CREATE DATABASE universalBlog;
